@@ -1,0 +1,31 @@
+
+section{
+	color: red;
+}
+
+h2 {
+  font-size: 1.8em;
+  color: #008080;
+}
+
+ul li { 
+	list-style-type: disc;
+}
+
+
+ slides > slide.title-slide hgroup h1 {
+ 	font-family:  serif;
+      color: #002B7A;
+    }
+
+.miNota{
+	color: purple;
+}
+
+.ans{
+	color: #C71585;
+}
+
+.otroAns{
+	color: #FF8C00;
+}
